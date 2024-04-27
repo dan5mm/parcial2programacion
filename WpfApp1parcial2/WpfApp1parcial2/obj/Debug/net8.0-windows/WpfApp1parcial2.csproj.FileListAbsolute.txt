@@ -1,0 +1,4 @@
+C:\Users\Aquino\source\repos\WpfApp1parcial2\WpfApp1parcial2\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Aquino\source\repos\WpfApp1parcial2\WpfApp1parcial2\obj\Debug\net8.0-windows\WpfApp1parcial2_MarkupCompile.cache
+C:\Users\Aquino\source\repos\WpfApp1parcial2\WpfApp1parcial2\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\Aquino\source\repos\WpfApp1parcial2\WpfApp1parcial2\obj\Debug\net8.0-windows\WpfApp1parcial2_MarkupCompile.lref
